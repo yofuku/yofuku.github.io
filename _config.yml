@@ -1,2 +1,4 @@
 name: Yo Fukushima's Website
 markdown: kramdown
+
+theme: jekyll-theme-slate
